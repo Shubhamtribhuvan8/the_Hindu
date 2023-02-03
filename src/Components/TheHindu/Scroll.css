@@ -1,0 +1,21 @@
+/* .carousel-inner{
+  width: 309px;
+} */
+.carousel-fade{
+  /* width: 350px; */
+  width: fit-content;
+  /* margin-left: 31%; */
+}
+.img{
+  width: 200px;
+  height: 550px;
+}
+.w-100 {
+  width: 100%!important;
+}
+.carousel-item {
+  float: none !important;
+}
+.carousel-inner{
+  height: 485px;
+}

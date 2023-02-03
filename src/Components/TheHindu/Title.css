@@ -1,0 +1,22 @@
+.Hindutitle{
+    max-width: 100%;
+    height: auto;
+}
+.thehunduname{
+    padding: 30px 0 10px;
+    margin: 0 auto;
+    text-align: center;
+    width: 642px;
+    z-index: 9999;
+    position: relative;
+    transition: .3s
+}
+.Header{
+    position: absolute;
+    top: -1px;
+    z-index: 15;
+    width: 100%;
+    background: #fff;
+    box-shadow: 0 5px 6px rgb(0 0 0 / 16%);
+    transition: .5s cubic-bezier(0.23,1,0.32,1);
+}

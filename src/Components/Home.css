@@ -1,0 +1,202 @@
+    .a{
+    width: 25%; 
+    margin-left: 2%;
+    }
+    .b{
+    width: 50%; 
+    }
+    .c{
+    width: 25%; 
+    }
+  div.a {  
+    word-wrap: normal;  
+  }  
+  div.b {  
+    word-wrap: normal;  
+  } 
+  div.c{  
+    word-wrap: normal;  
+  }   
+
+  h1:hover{
+    text-decoration: underline red;
+  }
+  .news1{
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: start;
+    font-weight: bold;
+    border-bottom: 2px solid rgb(237, 232, 232);
+  }
+  .news1:hover{
+    text-decoration: underline black;
+  }
+  .title-patch{
+    color: #b00020;
+    font-size: 30px;
+    font-family: "Playfair Display",serif;
+    font-weight: 900;
+    text-align: left;
+    padding: 0;
+    margin: 0 17px 15px;
+  text-align: start;
+  }
+  .b{
+    text-align: start;
+  }
+  p:hover{
+    text-decoration: underline 2px red;
+  }
+
+  .three-line {
+    display: block;
+    width: 100%;
+    padding: 3px 0;
+    margin: 20px 0;
+    /* border-top: 1px solid rgba(0,0,0,0.1450980392); */
+    border-bottom: 1px solid rgba(0,0,0,0.1450980392);
+}
+.element {
+    border-bottom: 2px solid rgb(237, 232, 232);
+}
+.partb{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 20px 0;
+    border-bottom: 1px solid rgba(0,0,0,0.1450980392);
+}
+button:hover{
+    background-color: brown;
+    cursor: pointer;
+}
+.Toppics{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 20%;
+    margin-left: 1%;
+    margin: 3%;
+    position: relative;
+    margin: 20px 0;
+    gap: 15px;
+    border-bottom: 1px solid rgba(0,0,0,0.1450980392);
+}
+ 
+div.Toppics{  
+  word-wrap: normal;  
+}  
+.second-txt,.second-txt1,.second-txt2 {
+  position: absolute;
+  bottom: 20px;
+  left: 10px;
+  text-align: start;
+  color:white;
+  font-size:xx-large;
+  border-bottom: 1px solid rgba(0,0,0,0.1450980392);
+}
+
+.gfg {
+  margin: 3%;
+  position: relative;
+  border-bottom: 1px solid rgba(0,0,0,0.1450980392);
+}
+
+.first-txt {
+  position: absolute;
+  bottom: 20px;
+  left: 10px;
+  text-align: start;
+  color:white;
+  font-size:xx-large;
+  border-bottom: 1px solid rgba(0,0,0,0.1450980392);
+  
+}
+
+div.Toppics{  
+  word-wrap: normal;  
+}  
+
+div.gandi{
+  word-wrap: normal;  
+}
+.one{
+  text-align: start;
+  width: 25%;
+  border-bottom: 1px solid rgba(0,0,0,0.1450980392);
+}
+.one1{
+  text-align: start;
+  width: 25%;
+  border-bottom: 1px solid rgba(0,0,0,0.1450980392);
+}
+.one2{
+  text-align: start;
+  width: 25%;
+  border-bottom: 1px solid rgba(0,0,0,0.1450980392);
+}
+.one3{
+  text-align: start;
+  width: 25%;
+  border-bottom: 1px solid rgba(0,0,0,0.1450980392);
+}
+.gandi{
+  border-top: 1px solid rgba(0,0,0,0.1450980392);
+  border-bottom: 1px solid rgba(0,0,0,0.1450980392);
+  margin-left: 1%;
+}
+h3:hover{
+  cursor: pointer;
+  text-decoration: underline 3px red;
+}
+div.Toppics3{  
+  word-wrap: normal;  
+}  
+
+.gfg2{
+  margin: 3%;
+  position: relative;
+  border-bottom: 1px solid rgba(0,0,0,0.1450980392);
+  position: relative;
+  margin: 20px 0;
+}
+.first-txt1 {
+  position: absolute;
+  bottom: 322px;
+  left: 48px;
+  text-align: start;
+  color:white;
+  width: 42%;
+  font-size:xxx-large;
+  border-bottom: 1px solid rgba(0,0,0,0.1450980392);
+}
+.first-txt2 {
+  position: absolute;
+  top: 39px;
+    left: 104px;
+  text-align: start;
+  color:white;
+  width: 42%;
+  font-size:40px;
+  border-bottom: 1px solid rgba(0,0,0,0.1450980392);
+}
+.first-txt4{
+  position: absolute;
+  top: 57px;
+  left: 37px;
+  text-align: start;
+  color:white;
+  width: 42%;
+  font-size:40px;
+  border-bottom: 1px solid rgba(0,0,0,0.1450980392);
+}
+.blur{
+  filter: blur(5px);
+  -webkit-filter: blur(2px);
+}
+.latest{
+  font-family: "Merriweather","serif";
+  font-weight:"normal";
+}

@@ -1,0 +1,26 @@
+
+.title{
+color: #b00020;
+font-size: 30px;
+font-family: "Playfair Display",serif;
+font-weight: 900;
+text-align: left;
+padding: 0;
+margin: 0 17px 15px;
+text-align: center;
+}
+
+.my-button {
+    background-color: ghostwhite;
+    color: rgb(235, 8, 8);
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .my-button:hover {
+    transform: scale(1.1);
+  }
+
+
+  
