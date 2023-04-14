@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/the_Hindu/static/css/main.957f950e.css",
-    "main.js": "/the_Hindu/static/js/main.f8823b45.js",
+    "main.js": "/the_Hindu/static/js/main.37b683ed.js",
     "index.html": "/the_Hindu/index.html",
     "main.957f950e.css.map": "/the_Hindu/static/css/main.957f950e.css.map",
-    "main.f8823b45.js.map": "/the_Hindu/static/js/main.f8823b45.js.map"
+    "main.37b683ed.js.map": "/the_Hindu/static/js/main.37b683ed.js.map"
   },
   "entrypoints": [
     "static/css/main.957f950e.css",
-    "static/js/main.f8823b45.js"
+    "static/js/main.37b683ed.js"
   ]
 }
